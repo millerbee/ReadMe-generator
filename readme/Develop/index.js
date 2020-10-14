@@ -63,7 +63,7 @@ inquirer
 
 
    
-      fs.writeFile("readme.txt", textForFile, function(err){
+      fs.writeFile("readme.md", textForFile, function(err){
         if(err){
           return console.log(err);
         } 
@@ -72,17 +72,17 @@ inquirer
         })
 
 
-        var tabcontents ={
-          contents: [
-            "Title",
-            "Description",
-            "Table of Contents",
-            "Installation",
-            "Usage",
-            "License",
-            "Contributing",
-            "Tests",
-            "Questions"
-          ]
-        }
+        // var tabcontents ={
+        //   contents: [
+        //     "Title",
+        //     "Description",
+        //     "Table of Contents",
+        //     "Installation",
+        //     "Usage",
+        //     "License",
+        //     "Contributing",
+        //     "Tests",
+        //     "Questions"
+        //   ]
+        // }
       });
