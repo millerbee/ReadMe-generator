@@ -2,13 +2,11 @@
 function generateMarkdown(data) {
   return ` 
 
-  <h2>${data.title}</h2>
+  <h1>${data.title}</h1>
 
-  ![npm collaborators](https://img.shields.io/npm/collaborators/inquirer?style=flat-square)
-
-
- 
-    
+  ![badge](https://img.shields.io/badge/author-millerbee-blue)
+  ![badge](https://img.shields.io/badge/-node%20js-orange)
+  ![badge](https://img.shields.io/badge/-Inquirer-green)
   
 ## Description
   ${data.description}
@@ -43,8 +41,9 @@ ${data.tests}
 ## Questions
 <p> Questions or comments? <br>email me at: ${data.email}</p>
 <br>
-:octocat: My github: [${data.username}](https://github.com/${data.username})
+<p> My github: [${data.username}](https://github.com/${data.username})
 <br>
+
 `;
 }
 

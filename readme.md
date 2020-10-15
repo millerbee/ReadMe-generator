@@ -1,15 +1,13 @@
  
 
-  <h2>sadfasdf</h2>
+  <h1>Read It</h1>
 
-  ![npm collaborators](https://img.shields.io/npm/collaborators/inquirer?style=flat-square)
-
-
- 
-    
+  ![badge](https://img.shields.io/badge/author-millerbee-blue)
+  ![badge](https://img.shields.io/badge/-node%20js-orange)
+  ![badge](https://img.shields.io/badge/-Inquirer-green)
   
 ## Description
-  sadfasdf
+  this is some stuff to do stuff
 
 ## Table of Contents
 - [Description](#description)
@@ -23,23 +21,24 @@
 
 
 ## Installation
-adsfsdaf
+12 steps and a banana
 
 
 ## Usage
-asdfsadf
+use it
 
 ## License
-Apache-2.0
+OSL-3.0
 
 ## Contributing
-asdf
+The Lord
 
 ## Tests
-asdf
+console
 
 ## Questions
-<p> Questions or comments? <br>email me at: asdf</p>
+<p> Questions or comments? <br>email me at: millerbgos@gmail.com</p>
 <br>
-:octocat: My github: [millerbee](https://github.com/millerbee)
+<p> My github: [millerbee](https://github.com/millerbee)
 <br>
+
