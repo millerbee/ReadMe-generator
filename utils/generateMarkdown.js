@@ -15,7 +15,7 @@ function generateMarkdown(data) {
 
 ## Table of Contents
 - [Description](#description)
-- [Installation](#installation)
+- [Installation](#install)
 - [Usage](#usage)
 - [License](#license)
 - [Contributing](#contributors)
@@ -25,7 +25,7 @@ function generateMarkdown(data) {
 
 
 ## Installation
-${data.installation}
+${data.install}
 
 
 ## Usage
@@ -35,16 +35,16 @@ ${data.usage}
 ${data.license}
 
 ## Contributing
-${data.ontributors}
+${data.contributors}
 
 ## Tests
 ${data.tests}
 
 ## Questions
-<p> Questions or comments? please email at: ${data.email}</p>
+<p> Questions or comments? <br>email me at: ${data.email}</p>
 <br>
-<p> My github: [${data.username}](https://github.com/${data.username})
-
+:octocat: My github: [${data.username}](https://github.com/${data.username})
+<br>
 `;
 }
 
