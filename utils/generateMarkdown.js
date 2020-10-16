@@ -39,9 +39,11 @@ ${data.contributors}
 ${data.tests}
 
 ## Questions
-<p> Questions or comments? <br>email me at: ${data.email}</p>
+<p>Feel free to email me with questions or comments and take a look at my github!</p>
 <br>
-<p> My github: [${data.username}](https://github.com/${data.username})
+<li><a href="mailto:${data.email}" taget="_blank">Email</a</li>
+<p></p>
+ <li><a href="https://github.com/${data.username}/" target="_blank">GitHub</a></li>
 <br>
 
 `;

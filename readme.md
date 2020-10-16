@@ -1,13 +1,13 @@
  
 
-  <h1>Read It</h1>
+  <h1>Read Me Generator</h1>
 
   ![badge](https://img.shields.io/badge/author-millerbee-blue)
   ![badge](https://img.shields.io/badge/-node%20js-orange)
   ![badge](https://img.shields.io/badge/-Inquirer-green)
   
 ## Description
-  this is some stuff to do stuff
+  This project was created to allow a user to generate a Read Me file from the CLI by answering a few questions.
 
 ## Table of Contents
 - [Description](#description)
@@ -21,24 +21,26 @@
 
 
 ## Installation
-12 steps and a banana
+npm init, npm install and inquirer, open CLI and enter 'node index.js'
 
 
 ## Usage
-use it
+You can use this to generate a quick Read Me file
 
 ## License
-OSL-3.0
+MIT
 
 ## Contributing
-The Lord
+no contributors at this time
 
 ## Tests
-console
+This project was tested in the CLI console and the Preview Markdown in VS Code.
 
 ## Questions
-<p> Questions or comments? <br>email me at: millerbgos@gmail.com</p>
+<p>Feel free to email me with questions or comments and take a look at my github!</p>
 <br>
-<p> My github: [millerbee](https://github.com/millerbee)
+<li><a href="mailto:millerbgos@gmail.com" taget="_blank">Email</a</li>
+<p></p>
+ <li><a href="https://github.com/millerbee/" target="_blank">GitHub</a></li>
 <br>
 
