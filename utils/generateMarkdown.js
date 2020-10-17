@@ -2,7 +2,7 @@
 function generateMarkdown(data) {
   return ` 
 
-  <h1>${data.title}</h1>
+  <h1>${data.title}</h1>    
 
   ![badge](https://img.shields.io/badge/author-millerbee-blue)
   ![badge](https://img.shields.io/badge/-node%20js-orange)

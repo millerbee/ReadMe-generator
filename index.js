@@ -5,7 +5,7 @@ const writeFileAsync = util.promisify(fs.writeFile);
 
 const generateMarkdown = require('./utils/generateMarkdown.js');
 
-//const questions =
+// function to ask questions and receive input from user
 function getInfo(){
     return inquirer.prompt([
 
@@ -56,7 +56,7 @@ function getInfo(){
 ]);
 } 
 
-  
+  // async function to wait for user input from getInfo function, generate the markdown and  write the file
  async function init() {      //(38-ins-async-await activity)
   try {
       // Ask questions
@@ -71,4 +71,4 @@ function getInfo(){
 }
 
 
- init();  //why won't this work??!! #$%#$%#$
+ init();  

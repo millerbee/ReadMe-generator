@@ -11,5 +11,13 @@
     "inquirer": "^6.5.2"
   },
   "devDependencies": {},
-  "description": ""
+  "description": "<h1>Read Me Generator</h1>",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/millerbee/ReadMe-generator.git"
+  },
+  "bugs": {
+    "url": "https://github.com/millerbee/ReadMe-generator/issues"
+  },
+  "homepage": "https://github.com/millerbee/ReadMe-generator#readme"
 }
